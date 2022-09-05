@@ -19,5 +19,5 @@ I used a dataset with information about penguins. The result is a prediction of 
 
 7 - Model evaluation
 
-8 Prediction
+8 - Prediction
 
