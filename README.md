@@ -5,7 +5,7 @@ I used a dataset with information about penguins. The result is a prediction of 
 
 Phases:
 
-1 - Exploratory inspection/n
+1 - Exploratory inspection
 2 - NAN values handling
 3 - Data standardization (numerical and categorical attributes - using one hot encoding)
 4 - Data cleaning
