@@ -1,7 +1,7 @@
 # machinelearning-regression
 
-This is an excercise that contains an example of linear regression.
-I used a dataset with information about penguins. The result is a prediction of the body mass using phisical and geographic attributes of them
+This is an exercise that contains an example of linear regression. 
+I used a dataset with information about penguins. The result is a prediction of the body mass using their physical and geographic attributes.
 
 **Phases:**
 
